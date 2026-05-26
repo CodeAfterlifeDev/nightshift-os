@@ -22,8 +22,9 @@ This project experimented with optimizing for mood, focus, and quiet late-night 
 - Next.js
 - Electron
 - Tailwind CSS
-- Zustand
-- Supabase
+- postgres
+- prisma
+- typescripte
 
 ---
 
