@@ -24,6 +24,7 @@ This project experimented with optimizing for mood, focus, and quiet late-night 
 - Tailwind CSS
 - postgres
 - prisma
-- typescripte
+- typescript
+- supabase
 
 ---
