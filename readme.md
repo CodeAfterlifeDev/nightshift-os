@@ -25,6 +25,6 @@ This project experimented with optimizing for mood, focus, and quiet late-night 
 - postgres
 - prisma
 - typescript
-- firebase
+- appwrite
 
 ---
